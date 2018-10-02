@@ -1,13 +1,1 @@
-test 1111
-
-test 2222
-
-
-more change 3
-<<<<<<< HEAD
-
-
-changeeeeeeee 4
-=======
-chane on hithub
->>>>>>> c711be514dfc93dd0e89cdc212ad34515ad3c9d4
+first-step-first commid on desktop
